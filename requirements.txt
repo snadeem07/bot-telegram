@@ -1,0 +1,16 @@
+# Core dependencies
+Flask==3.0.0
+python-telegram-bot==21.0
+psycopg2-binary==2.9.9
+
+# Database and utilities
+python-dotenv==1.0.0
+
+# Google Cloud dependencies
+google-cloud-logging==3.8.0
+
+# WSGI server for production
+gunicorn==21.2.0
+
+# Additional utilities
+pytz==2023.3
